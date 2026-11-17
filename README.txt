@@ -1,2 +1,2 @@
-title=Open Source Lab
+title=Community Edition
 status=initial
