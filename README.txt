@@ -1,2 +1,2 @@
-title=Open Source Lab
+title=Classroom Edition
 status=initial
