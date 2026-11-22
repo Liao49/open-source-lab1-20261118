@@ -1,2 +1,2 @@
-title=Community Edition
+title=Classroom Community Edition
 status=initial
